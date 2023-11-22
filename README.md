@@ -4,9 +4,8 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 
 ## Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Conhecimentos avançados em HTML, CSS, Javascript e Vue.js 3.
+- 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js 3 e Laravel
 - 🚀 Explorando C#, Java, Python e SQL para ampliar minhas habilidades.
-- 🌐 Apaixonado por construir interfaces dinâmicas e modernas.
 
 ## Tecnologias que Eu Utilizo
 
