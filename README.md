@@ -7,7 +7,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js 3 e Laravel
 - 🚀 Explorando C#, Java, Python e SQL para ampliar minhas habilidades.
 
-## Tecnologias que Eu Utilizo
+# Tecnologias que Eu Utilizo
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Estatísticas Rápidas
 [![Top Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
