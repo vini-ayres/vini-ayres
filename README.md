@@ -7,7 +7,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js 3 e Laravel
 - 🚀 Explorando C#, Java, Python e SQL para ampliar minhas habilidades.
 
-# Tecnologias que Eu Utilizo
+## Tecnologias que Eu Utilizo
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
