@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Repositório!
 
-Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por explorar e aprimorar minhas habilidades no mundo da programação. Este é o meu cantinho no GitHub, onde compartilho meus projetos, experimentos e aprendizados.
+Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por explorar e aprimorar minhas habilidades no mundo da programação. Este é o meu GitHub, onde compartilho meus projetos, experimentos e aprendizados.
 
 ## Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -23,6 +23,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 [![Top Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Vamos Conectar!
-Estou sempre aberto a colaborações, feedbacks e novas amizades no mundo da programação. Sinta-se à vontade para explorar meus projetos e entrar em contato. Juntos, podemos construir algo incrível! Entre em contato comigo:
+Estou sempre aberto a colaborações, feedbacks e novas amizades no mundo da programação. Sinta-se à vontade para explorar meus projetos e entrar em contato:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.na.ayres@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ayres/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.na.ayres@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ayres/)
