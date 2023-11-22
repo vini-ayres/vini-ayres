@@ -19,6 +19,7 @@
 ### Estatísticas do meu GitHub:
 
 [![Top Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&show_icons=true&theme=white">
 
 ### Meus meios de contatos:
 
