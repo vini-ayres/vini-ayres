@@ -4,7 +4,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 
 ## Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js 3 e Laravel
+- 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js 3 e Laravel.
 - 🚀 Explorando C#, Java, Python e SQL para ampliar minhas habilidades.
 
 ## Tecnologias que Eu Utilizo
@@ -14,7 +14,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -22,12 +22,7 @@ Olá, devs! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvo
 ## Estatísticas Rápidas
 [![Top Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## O Que Você Encontrará Aqui
-- 🛠️ Projetos em constante evolução.
-- 📚 Compartilhamento de conhecimento e aprendizados.
-- 🤝 Espaço para colaboração e sugestões.
-
 ## Vamos Conectar!
-Estou sempre aberto a colaborações, feedbacks e novas amizades no mundo da programação. Sinta-se à vontade para explorar meus projetos e entrar em contato. Juntos, podemos construir algo incrível!
+Estou sempre aberto a colaborações, feedbacks e novas amizades no mundo da programação. Sinta-se à vontade para explorar meus projetos e entrar em contato. Juntos, podemos construir algo incrível! Entre em contato comigo:
 
-**Vamos codar! 🚀**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.na.ayres@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ayres/)
