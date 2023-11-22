@@ -1,4 +1,4 @@
-### Olá, Eu sou o Vinícius Ayres! 👋
+### Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
