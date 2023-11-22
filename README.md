@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Repositório!
 
-Olá, pessoal! 👋 Sou [Seu Nome], um estudante entusiasta de Análise e Desenvolvimento de Sistemas apaixonado por explorar e aprimorar minhas habilidades no mundo da programação. Este é o meu cantinho no GitHub, onde compartilho meus projetos, experimentos e aprendizados.
+Olá, pessoal! 👋 Eu me chamo Vinícius Ayres, um estudante de Análise e Desenvolvimento de Sistemas apaixonado por explorar e aprimorar minhas habilidades no mundo da programação. Este é o meu cantinho no GitHub, onde compartilho meus projetos, experimentos e aprendizados.
 
 ## Sobre Mim
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.
