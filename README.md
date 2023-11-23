@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
-- 🚀 Explorando C#, Java, Python e MySQL para ampliar minhas habilidades.
+- 🚀 Estudando as linguagens C#, Java, Python e MySQL.
 
 ## Tecnologias que eu utilizo:
 
