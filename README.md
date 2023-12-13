@@ -10,7 +10,9 @@
 
 ## Estatísticas do meu GitHub:
 
-<img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact&theme=tokyonight"><img height="149em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&show_icons=true&theme=tokyonight"><a href="https://git.io/streak-stats"><img height="149em" src="https://streak-stats.demolab.com?user=vini-ayres&theme=tokyonight" alt="GitHub Streak" /></a>
+<img height="209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact&theme=tokyonight">
+<img height="159em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&show_icons=true&theme=tokyonight">
+<img height="150em" src="https://streak-stats.demolab.com?user=vini-ayres&theme=tokyonight" alt="GitHub Streak">
 
 ## Meus meios de contato:
 
