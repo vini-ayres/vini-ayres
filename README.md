@@ -6,13 +6,13 @@
 
 ## Tecnologias que eu utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql)](https://skillicons.dev)
+![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql)
 
 ## Estatísticas do meu GitHub:
 
 <img height="209em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact&theme=tokyonight">
 <img height="159em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&show_icons=true&theme=tokyonight">
-<img height="150em" src="https://streak-stats.demolab.com?user=vini-ayres&theme=tokyonight" alt="GitHub Streak">
+<img height="150em" src="https://streak-stats.demolab.com?user=vini-ayres&theme=tokyonight">
 
 ## Meus meios de contato:
 
