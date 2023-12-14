@@ -8,7 +8,7 @@
 
 ## ⚡ Tecnologias que eu utilizo:
 
-![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql,visualstudio,vscode,git)
+![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql)
 
 ## 📊 Estatísticas e atividades:
 <div align="left">
