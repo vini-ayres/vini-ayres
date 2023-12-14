@@ -10,14 +10,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
 
 ## 📊 Estatísticas e atividades:
+<img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+  <br> <!-- Line break added here -->
+  <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
 </div>
-
-## 💻 Estatísticas do meu perfil do GitHub:
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
 
 ## 📫 Meus meios de contato:
 
