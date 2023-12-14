@@ -1,18 +1,15 @@
-<img align="right" width="300em" src="ReadyPlayerMe-Avatar.png" />
+
 
 ## Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
-- 🚀 Estudando as linguagens C#, Java, Python e MySQL.<br>
+- 🚀 Estudando as linguagens C#, Java, Python e MySQL.<img align="right" width="250em" src="ReadyPlayerMe-Avatar.png" />
 
-## ⚡ Tecnologias que eu utilizo</h1>
-
-<div>
+## ⚡ Tecnologias que eu utilizo
   
 ![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql)
 
-</div>
 
 ## 📊 Estatísticas do meu GitHub
 
