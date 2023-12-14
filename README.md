@@ -14,7 +14,7 @@
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
   <br> <!-- Line break added here -->
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
+  <img height="141em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
 </div>
 
 ## 📫 Meus meios de contato:
