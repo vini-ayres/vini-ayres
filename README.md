@@ -1,20 +1,26 @@
-<img align="right" width="300em" src="ReadyPlayerMe-Avatar.png">
-<h2>Olá, eu sou o Vinícius Ayres! 👋</h1>
+<img align="right" width="300em" src="ReadyPlayerMe-Avatar.png" />
+<h2 align="center">Olá, eu sou o Vinícius Ayres! 👋</h1>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
 - 🚀 Estudando as linguagens C#, Java, Python e MySQL.<br>
 
-## ⚡ Tecnologias que eu utilizo
+<h2 align="center">⚡ Tecnologias que eu utilizo</h1>
 
+<div align="center">
+  
 ![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql)
+
+</div>
+
+<div align="center">
 
 ## 📊 Estatísticas do meu GitHub
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
+
 </div>
 
 ## 📫 Meus meios de contato
