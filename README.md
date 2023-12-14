@@ -1,5 +1,3 @@
-<img align="right" width="300em" src="perfil-avatar.png" />
-
 ## Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -7,7 +5,7 @@
 - 🚀 Estudando as linguagens C#, Java, Python e MySQL.
 
 ## ⚡ Tecnologias que eu utilizo:
-
+<img align="right" width="300em" src="perfil-avatar.png" />
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel">
 <img src="https://skillicons.dev/icons?i=cs,java,python,mysql,git">
