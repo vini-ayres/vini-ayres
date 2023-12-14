@@ -7,7 +7,6 @@
 - 🚀 Estudando as linguagens C#, Java, Python e MySQL.
 
 ## ⚡ Tecnologias que eu utilizo:
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
 
 ## 📊 Estatísticas e atividades:
