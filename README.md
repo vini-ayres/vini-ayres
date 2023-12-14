@@ -1,6 +1,5 @@
-<img align="right" width="300" src="ReadyPlayerMe-Avatar.png">
-  
-## Olá, eu sou o Vinícius Ayres! 👋
+<img align="right" width="320em" src="ReadyPlayerMe-Avatar.png">
+<h2>Olá, eu sou o Vinícius Ayres! 👋</h1>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
@@ -12,11 +11,10 @@
 
 ## 📊 Estatísticas do meu GitHub
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
-  <img height="126em" src="https://github-profile-trophy.vercel.app/?username=vini-ayres&theme=tokyonight">
 </div>
 
 ## 📫 Meus meios de contato
