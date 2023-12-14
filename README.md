@@ -8,13 +8,13 @@
 
 ## ⚡ Tecnologias que eu utilizo
 
-<img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
-
 ![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql)
 
 ## 📊 Estatísticas do meu GitHub
-
+<div align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+</div>
 
 ## 💻 GitHub Profile Stats
 
