@@ -1,4 +1,4 @@
-<img align="right" width="300em" src="ReadyPlayerMe-Avatar.png" />
+<img align="right" width="300em" src="avatar.png" />
 
 ## Olá, eu sou o Vinícius Ayres! 👋
 
