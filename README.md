@@ -1,6 +1,5 @@
 <img align="right" width="300em" src="perfil-avatar.png" />
-
-## Olá, eu sou o Vinícius Ayres! 👋
+<h2>Olá, eu sou o Vinícius Ayres! 👋</h2>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
