@@ -9,7 +9,7 @@
 ## ⚡ Tecnologias que eu utilizo:
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
 
-## 📊 Estatísticas e atividades:
+## 📊 Estatísticas e contribuições:
 <img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
 
 <div align="left">
