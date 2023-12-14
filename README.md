@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
   <img height="126em" src="https://github-profile-trophy.vercel.app/?username=vini-ayres&theme=tokyonight">
-</div>d
+</div>
 
 ## 📫 Meus meios de contato
 
