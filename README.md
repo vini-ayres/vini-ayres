@@ -1,4 +1,4 @@
-<img align="right" width="450em" src="ReadyPlayerMe-Avatar.png" />
+<img align="right" width="250em" src="ReadyPlayerMe-Avatar.png" />
 <h2 align="center">Olá, eu sou o Vinícius Ayres! 👋</h1>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
