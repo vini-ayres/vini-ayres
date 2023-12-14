@@ -1,8 +1,10 @@
+<img align="right" width="300" src="ReadyPlayerMe-Avatar.png">
+  
 ## Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
-- 🚀 Estudando as linguagens C#, Java, Python e MySQL.
+- 🚀 Estudando as linguagens C#, Java, Python e MySQL.<br>
 
 ## ⚡ Tecnologias que eu utilizo
 
@@ -10,10 +12,13 @@
 
 ## 📊 Estatísticas do meu GitHub
 
-<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&layout=compact&theme=tokyonight"><img height="125em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&show_icons=true&theme=tokyonight"><img height="125em" src="https://streak-stats.demolab.com?user=vini-ayres&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
 <img height="126em" src="https://github-profile-trophy.vercel.app/?username=vini-ayres&theme=tokyonight">
 
 ## 📫 Meus meios de contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.na.ayres@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ayres/)
+</div>
