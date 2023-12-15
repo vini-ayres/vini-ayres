@@ -1,14 +1,17 @@
 <img align="right" width="300em" src="avatar.png" />
-<h2>Olá, eu sou o Vinícius Ayres! 👋</h2>
+
+## Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
 - 🚀 Estudando as linguagens C#, Java, Python e MySQL.
 
 ## ⚡ Tecnologias que eu utilizo:
+
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
 
 ## 📊 Estatísticas e contribuições:
+
 <img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
 
 <div align="left">
