@@ -1,5 +1,3 @@
-<img align="right" width="300em" src="avatar.png" />
-
 ## Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
