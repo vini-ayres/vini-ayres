@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Olá, eu sou o Vinícius Ayres! 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
@@ -11,6 +13,8 @@
 ## 📊 Estatísticas e contribuições:
 
 <img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+
+</div>
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
