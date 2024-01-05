@@ -1,11 +1,14 @@
 ## Olá, eu sou o Vinícius Ayres! 👋
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+<div align="left">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+</div>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,vue">
 <img src="https://skillicons.dev/icons?i=laravel,cs,java,python">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+<img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
 
 ##
 
