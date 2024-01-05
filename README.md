@@ -1,7 +1,17 @@
-### Olá, eu sou o Vinícius Ayres! 👋
+## Olá, eu sou o Vinícius Ayres! 👋
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
+- 🚀 Estudando as linguagens C#, Java, Python e MySQL.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true"><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
+
+<img align="left" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-ayres&theme=tokyonight&layout=compact&langs_count=16">
+
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vini-ayres&theme=tokyonight&show_icons=true">
+  <br> <!-- Line break added here -->
+  <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-ayres&theme=tokyonight&show_icons=true">
+</div>
 
 ##
 
