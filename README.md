@@ -4,7 +4,7 @@
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
 - 🚀 Estudando as linguagens C#, Java, Python e MySQL.
 
-## ⚡ Tecnologias que eu utilizo:
+## ⚡ Tecnologias:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
 
