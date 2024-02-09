@@ -1,6 +1,6 @@
 ## Olá mundo! 👋 Eu sou o Vinícius Ayres
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,cs,java,python,mysql">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,laravel,cs,java,php,python,mysql">
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Conhecimentos avançados em HTML, CSS, Javascript, Vue.js e Laravel.
