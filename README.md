@@ -1,4 +1,4 @@
-## Olá mundo! 👋 Eu sou o Vinícius Ayres
+## Olá, devs! 👋 Eu sou o Vinícius Ayres
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,laravel,cs,cpp,java,python,php">
 <img src="https://skillicons.dev/icons?i=windows,azure,dotnet,linux,ubuntu,debian,redhat,kali,docker,postgres,mysql,replit">
